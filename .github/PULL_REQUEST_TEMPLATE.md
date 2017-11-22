@@ -1,4 +1,4 @@
-### This project uses [semver](semver.org), please check the scope of this pr:
+**This project uses [semver](http://semver.org), please check the scope of this pr:**
 
 - [ ] #none# - documentation fixes and/or test additions
 - [ ] #patch# - backwards-compatible bug fix
@@ -6,4 +6,5 @@
 - [ ] #major# - incompatible API change
 
 # CHANGELOG
+
 Please add a description of your change here, it will be automatically prepended to the `CHANGELOG.md` file.
